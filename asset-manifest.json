@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ngochan_portolio/static/css/main.1734ec9c.css",
-    "main.js": "/ngochan_portolio/static/js/main.9729f547.js",
+    "main.js": "/ngochan_portolio/static/js/main.03f66cae.js",
     "static/js/488.c707cd10.chunk.js": "/ngochan_portolio/static/js/488.c707cd10.chunk.js",
     "static/media/content.png": "/ngochan_portolio/static/media/content.9cb9031f74965e998fc6.png",
     "static/media/img1.JPG": "/ngochan_portolio/static/media/img1.491e62ab4dbec6512ced.JPG",
@@ -67,11 +67,11 @@
     "static/media/proyecto-app-2.jpg": "/ngochan_portolio/static/media/proyecto-app-2.5d8ddf1cc2638b419fd5.jpg",
     "index.html": "/ngochan_portolio/index.html",
     "main.1734ec9c.css.map": "/ngochan_portolio/static/css/main.1734ec9c.css.map",
-    "main.9729f547.js.map": "/ngochan_portolio/static/js/main.9729f547.js.map",
+    "main.03f66cae.js.map": "/ngochan_portolio/static/js/main.03f66cae.js.map",
     "488.c707cd10.chunk.js.map": "/ngochan_portolio/static/js/488.c707cd10.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1734ec9c.css",
-    "static/js/main.9729f547.js"
+    "static/js/main.03f66cae.js"
   ]
 }
