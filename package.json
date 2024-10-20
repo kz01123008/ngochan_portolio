@@ -1,6 +1,6 @@
 {
   "name": "portafolio-nahuel61920",
-  "homepage": "https://Nahuel61920.github.io/portafolio-Nahuel/",
+  "homepage": "https://kz01123008.github.io/ngochan_portolio/",
   "version": "1.5.0",
   "private": true,
   "dependencies": {
@@ -47,7 +47,7 @@
     ]
   },
   "devDependencies": {
-    "tsparticles": "^2.1.3",
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^3.2.3",
+    "tsparticles": "^2.1.3"
   }
 }
